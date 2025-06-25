@@ -1,0 +1,24 @@
+---
+title: "About Bass Pond"
+format: html
+---
+
+# About Bass Pond
+
+## A Hidden Gem in Springfield
+
+![](images/Pond3.jpg)
+
+Bass Pond is a 13-acre freshwater pond nestled in the heart of Springfield, MA. With depths ranging from 9 to 12 feet, it’s a perfect spot for swimming, kayaking, or simply relaxing under shady trees or in the warm sun. Whether you’re out paddling one of our shared kayaks, cooling off in the water, or exploring the pond’s natural beauty — including lily pads, pumpkinseed fish, bass, and heron species — there’s something here for everyone who loves the outdoors.
+
+## Safety & Snacks
+
+![Our awesome lifeguards!](images/Lifeguards.jpg){fig-align="right"}
+
+Our lifeguards are on duty throughout the summer to ensure a safe, fun experience for all. In addition to keeping an eye on the water, they also run our seasonal **snack shack**, offering cold drinks, treats, and a place to take a break in the shade.
+
+## Community at the Core
+
+![Bonfire Fridays!](images/PondFire.jpg)
+
+Bass Pond is more than just a place to swim — it’s a community. Throughout the summer, we host **bonfires, craft and game nights, and our annual community picnic**. We work together to keep our shared space clean, safe, and welcoming for all. Whether you're a longtime member or a first-time visitor, you'll find a friendly face and a place to belong.
